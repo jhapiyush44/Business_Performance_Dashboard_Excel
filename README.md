@@ -23,7 +23,7 @@ This Excel-based dashboard analyzes 2000 transactions to uncover business insigh
 - 💰 The company makes the highest profit through **Cash payments**
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](dashboard_preview.png)
+![Dashboard Screenshot](Dashboard_Overview.png)
 
 ## 🛠 Tools Used
 - Microsoft Excel
